@@ -5,7 +5,8 @@ files necessary to work through the book from start to finish.
 
 ## Instructions and Navigation
 
-This is the code repository for Mastering PHP Design Patterns, published by Packt.
+This is the code repository for [Mastering PHP Design Patterns](m-php-dp), published by Packt.
+There is no additional code files for the last Chapter (How to Write Better Code) as it covers mostly the best practices with no need of additional code files
 
 ## Description
 
@@ -18,6 +19,7 @@ This book will introduce you to the core knowledge required to understand projec
 - [PHP Team Development][php-team-development]
 - [Learning PHP 7][learning-php7]
 
+[m-php-dp]: https://www.packtpub.com/application-development/mastering-php-design-patterns?utm_source=github&utm_medium=repository&utm_campaign=9781785880544
 [typescript-design-patterns]: https://www.packtpub.com/application-development/typescript-design-patterns?utm_source=github&utm_medium=repository&utm_campaign=9781785280832
 [typescript-design-patterns]: https://www.packtpub.com/application-development/typescript-design-patterns?utm_source=github&utm_medium=repository&utm_campaign=9781785280832
 [php-team-development]: https://www.packtpub.com/web-development/php-team-development?utm_source=github&utm_medium=repository&utm_campaign=9781785880544
