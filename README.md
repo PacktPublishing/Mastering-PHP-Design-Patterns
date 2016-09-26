@@ -5,19 +5,7 @@ files necessary to work through the book from start to finish.
 
 ## Instructions and Navigation
 
-This is the code repository for
-[Mastering PHP Design Patterns][https://www.packtpub.com/application-development/mastering-php-design-patterns?utm_source=github&utm_medium=repository&utm_campaign=9781785880544], published by Packt.
-
-There are no additional code bundle for the following chapters:
-
-- **Chapter 8** - SOLID Principles
-- **Chapter 9** - The Road to Enterprise Application
-
-Chapter 8 is mainly about explaining SOLID principles, so the code bundles are
-about concepts without actual implementation. Chapter 9 is about a workflow and
-related configurations, so it is rather trivial to put them as code bundles
-into files.
-
+This is the code repository for Mastering PHP Design Patterns, published by Packt.
 
 ## Description
 
