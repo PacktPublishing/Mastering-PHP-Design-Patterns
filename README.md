@@ -5,7 +5,7 @@ files necessary to work through the book from start to finish.
 
 ## Instructions and Navigation
 
-This is the code repository for [Mastering PHP Design Patterns](m-php-dp), published by Packt.
+This is the code repository for [Mastering PHP Design Patterns][m-php-dp], published by Packt.
 There is no additional code files for the last Chapter (How to Write Better Code) as it covers mostly the best practices with no need of additional code files
 
 ## Description
