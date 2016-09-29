@@ -13,9 +13,9 @@ There is no additional code files for the last Chapter (How to Write Better Code
 Mastering PHP Design Patterns goes beyond traditional design patterns as envisaged by the Gang of Four and details the practices that passionate PHP developers need to be successful as software engineers or leads on detailed PHP projects. 
 This book will introduce you to the core knowledge required to understand project management techniques, why the majority software development projects fail, and why you can make yours a success.
 Code will look like the following:
-'''
+```
 code-test
-'''
+```
 
 ## Related PHP/Design Patterns Products:
 
