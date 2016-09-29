@@ -14,7 +14,17 @@ Mastering PHP Design Patterns goes beyond traditional design patterns as envisag
 This book will introduce you to the core knowledge required to understand project management techniques, why the majority software development projects fail, and why you can make yours a success.
 Code will look like the following:
 ```
-code-test
+require_once('vendor/autoload.php');
+new \IcyApril\ChapterOne\Book();
+$pets = array(
+    'felix' => new \IcyApril\ChapterOne\Cat(),
+    'oscar' => new \IcyApril\ChapterOne\Dog(),
+    'snowflake' => new \IcyApril\ChapterOne\Cat()
+);
+foreach ($pets as $pet) {
+    echo $pet->talk(false);
+    $pet->walk(1);
+}
 ```
 
 ## Related PHP/Design Patterns Products:
