@@ -38,3 +38,7 @@ foreach ($pets as $pet) {
 [typescript-design-patterns]: https://www.packtpub.com/application-development/typescript-design-patterns?utm_source=github&utm_medium=repository&utm_campaign=9781785280832
 [php-team-development]: https://www.packtpub.com/web-development/php-team-development?utm_source=github&utm_medium=repository&utm_campaign=9781785880544
 [learning-php7]: https://www.packtpub.com/application-development/learning-php-7?utm_source=github&utm_medium=repository&utm_campaign=9781785880544
+### Download a free PDF
+
+ <i>If you have already purchased a print or Kindle version of this book, you can get a DRM-free PDF version at no cost.<br>Simply click on the link to claim your free PDF.</i>
+<p align="center"> <a href="https://packt.link/free-ebook/9781785887130">https://packt.link/free-ebook/9781785887130 </a> </p>
